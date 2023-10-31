@@ -49,8 +49,9 @@ I believe in a balanced life, so I'm involved in various extracurricular activit
   
 ## 🛠️ Skills:
 ###languages:
-![python](https://img.shields.io/badges/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
 
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Front-End Development:
 <p align="left"> 
