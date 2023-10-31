@@ -45,7 +45,7 @@ I believe in a balanced life, so I'm involved in various extracurricular activit
 ## 🌐 Find Me Online
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/hitendra-singh-nathawat-601b00257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bc%2Fs7%2FD2TT5ONqmDz%2BvGs1g%3D%3D)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gaurav-vashistha-4575aa254/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hitendra-singh-nathawat-601b00257/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hitendra19)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:himanshuhitendra18@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzgaurav_here/)
