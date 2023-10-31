@@ -1,13 +1,16 @@
+<h1 align="center">Hello👋friends I'm Hitendra Singh Nathawat😉</h1>
+ <img align="right" alt ="coding image" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+
 # About Me  
 
-Hello, I'm Hitendra Singh Nathawat😉, a college student studying Computer Science👨‍💻 at Gov.Engineering College,Ajmer. 📚
+Hello, I'm **Hitendra Singh Nathawat😉**, a college student studying **Computer Science👨‍💻** at **Gov.Engineering College,Ajmer.📚**
 
-I'm passionate about Web Development , and I'm eager to learn and explore new things during my academic journey. 🌱
+I'm passionate about **Web Development** , and I'm eager to learn and explore new things during my academic journey. 🌱
 
 ## 📚 Academic Pursuits
 
-- 🎓 I'm currently pursuing a degree in [Computer Science🧑‍💻💻] at [Gov.Engineering College Ajmer].
-- 📝 I'm particularly interested in ****DSA****, and I'm working on [Web development project].
+- 🎓 I'm currently pursuing a degree in **[Computer Science🧑‍💻💻]** at **[Gov.Engineering College Ajmer].**
+- 📝 I'm particularly interested in ****DSA****, and I'm working on **[Web development project].**
 - 📖 I'm always looking for new books to read and research topics to delve into.
 
 <!--## 💻 Side Projects
