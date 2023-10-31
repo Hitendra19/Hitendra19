@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋friends I'm Hitendra Singh Nathawat😉</h1>
- <img align="right" alt ="coding image" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+ <img align="right" alt ="coding image" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 ## 🧑‍💻About Me  
 
